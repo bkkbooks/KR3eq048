@@ -1,0 +1,361 @@
+canonical_identifier: bkk:krp/KR3eq048/v1
+canonical_location: https://kanripo.org/bkk/KR3eq048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫貫砭
+  identifiers:
+    krp: KR3eq048
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq048.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq048_000.yaml, hash: 'sha256:fd21151eb5e05e07ed0b329d10cb2a6df84b8d1594864a4f925bcc707565b893'}
+  - {seq: 1, filename: KR3eq048_001.yaml, hash: 'sha256:9ff1b7eb424f301aa06a703a71ca8a98041083dc92a0b744130bd24ca961a47e'}
+  - {seq: 3, filename: KR3eq048_003.yaml, hash: 'sha256:2a411fcfba08ba7ff5e27b88163e2a5f5a9dde2f5b139b1d9df6d8b8f1bdabf5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq048_000.markers.yaml, hash: 'sha256:117e387fb60cbfaaeb6ed34dd608085d626a40102c5c3c0171709957f769beff'}
+  - {seq: 1, role: markers, filename: assets/KR3eq048_001.markers.yaml, hash: 'sha256:c3425767cbdb7cb487bde09c9d234a3f6ba7c8c8f89e6981c7c0da5da6fd2195'}
+  - {seq: 3, role: markers, filename: assets/KR3eq048_003.markers.yaml, hash: 'sha256:26fd12619c2edecc5a2777db9aa78d82f86ed5d3c7eef9cb499c0aebc74ee47d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq048_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 601
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 16833
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 4862
+  label: 十二官論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d3
+    span:
+    - body
+    - 4862
+    - 7571
+  label: 陰陽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d4
+    span:
+    - body
+    - 7571
+    - 8435
+  label: 五行論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d5
+    span:
+    - body
+    - 8435
+    - 9421
+  label: 中風論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d6
+    span:
+    - body
+    - 9421
+    - 14078
+  label: 傷寒論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d7
+    span:
+    - body
+    - 14078
+    - 15273
+  label: 溫病論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq048_jc_001-d3d8
+    span:
+    - body
+    - 15273
+    - 16833
+  label: 郁病論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16910
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1377
+  label: 論血證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d3
+    span:
+    - body
+    - 1377
+    - 1876
+  label: 論八味丸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d4
+    span:
+    - body
+    - 1876
+    - 2299
+  label: 水火論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d5
+    span:
+    - body
+    - 2299
+    - 4060
+  label: 六味丸說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d6
+    span:
+    - body
+    - 4060
+    - 4326
+  label: 八味丸說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d7
+    span:
+    - body
+    - 4326
+    - 4544
+  label: 相火龍雷論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d8
+    span:
+    - body
+    - 4544
+    - 5501
+  label: 陰虛發熱論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d9
+    span:
+    - body
+    - 5501
+    - 6205
+  label: 咳嗽論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d10
+    span:
+    - body
+    - 6205
+    - 6727
+  label: 吐血論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d11
+    span:
+    - body
+    - 6727
+    - 7301
+  label: 喘論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d12
+    span:
+    - body
+    - 7301
+    - 7859
+  label: 喉咽痛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d13
+    span:
+    - body
+    - 7859
+    - 8320
+  label: 眼目論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d14
+    span:
+    - body
+    - 8320
+    - 9046
+  label: 口瘡論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d15
+    span:
+    - body
+    - 9046
+    - 9637
+  label: 消渴論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d16
+    span:
+    - body
+    - 9637
+    - 10885
+  label: 氣虛中滿論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d17
+    span:
+    - body
+    - 10885
+    - 11468
+  label: 噎膈論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d18
+    span:
+    - body
+    - 11468
+    - 11731
+  label: 夢遺並精滑論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d19
+    span:
+    - body
+    - 11731
+    - 13461
+  label: 論補中益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d20
+    span:
+    - body
+    - 13461
+    - 14615
+  label: 傷飲食論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d21
+    span:
+    - body
+    - 14615
+    - 15298
+  label: 中暑傷暑論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d22
+    span:
+    - body
+    - 15298
+    - 15934
+  label: 濕論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d23
+    span:
+    - body
+    - 15934
+    - 16551
+  label: 瘧論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq048_jc_003-d4d24
+    span:
+    - body
+    - 16551
+    - 16910
+  label: 痢疾論
+  type: section
+  level: 2
+hash: sha256:f72bdfcb6853e0a4194f89b574470b01a15a67a7332da1300bc5468b7c55e207
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
